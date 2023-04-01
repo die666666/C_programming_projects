@@ -5,3 +5,4 @@
 2. simple calculator
 3. tic-tac-toe
 4. Payment tracking system
+5. Casino: Guessing game
